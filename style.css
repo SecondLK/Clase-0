@@ -1,0 +1,24 @@
+/*esto se usa para agregar comentarios */
+
+
+/*HEADER*/
+
+/*MAIN*/
+.listado-de-items {
+    color: black;
+    background-color: red;
+    width: 20%;
+}
+
+/*FOOTER*/
+/*TABLE*/
+.dias {
+    color: #2d0264;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.horarios {
+    font-style: italic;
+    color: #2d0264
+}
