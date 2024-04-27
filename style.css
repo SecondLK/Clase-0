@@ -9,7 +9,8 @@
     background-color: red;
     width: 20%;
 }
-
+    .horarios-body{ background-image: url(./imagenes/GI-Background.jpg);
+    }
 /*FOOTER*/
 /*TABLE*/
 .dias {
