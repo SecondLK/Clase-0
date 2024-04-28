@@ -9,8 +9,7 @@
     width: 100%
 }
 .inicio-sesion{
-border-style: solid; 
-border-right-width: 900px;   
+border-style: solid;    
 }
 
 /*MAIN*/
@@ -24,7 +23,13 @@ border-right-width: 900px;
 
 
 /*TABLE*/
-
+/*contacto*/
+.contacto-body{
+    background-image: url(./imagenes/GI-Background.jpg) 
+}
+.form{
+    border-style: solid;
+}
 /*horarios*/
 .listado-de-items {
     color: black;
