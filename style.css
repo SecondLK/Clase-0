@@ -1,18 +1,40 @@
 /*esto se usa para agregar comentarios */
+.index-body{
+    background-image: url(./imagenes/GI-Background.jpg)
+}
 
-
-/*HEADER*/
+/*HEADER*/ 
+.header{
+    background-color: grey;
+    width: 100%
+}
+.inicio-sesion{
+border-style: solid; 
+border-right-width: 900px;   
+}
 
 /*MAIN*/
+
+/*FOOTER*/
+.footer{ color: white;
+    background-color: black;
+    height: 70px;
+
+}
+
+
+/*TABLE*/
+
+/*horarios*/
 .listado-de-items {
     color: black;
-    background-color: red;
+    background-color: transparent;
     width: 20%;
+    border-style: dotted;
 }
+
     .horarios-body{ background-image: url(./imagenes/GI-Background.jpg);
     }
-/*FOOTER*/
-/*TABLE*/
 .dias {
     color: #2d0264;
     font-size: 25px;
