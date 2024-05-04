@@ -2,34 +2,64 @@
 .body{
     background-image: url(./imagenes/GI-Background.jpg)
 }
+/*NAV*/
+.nav{
+
+}
+
 
 /*HEADER*/ 
 .header{
-
+}
+.header .nav .barra-nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
 }
 .inicio-sesion{
 border-style: solid;    
 }
 
 /*MAIN*/
-
+.yoimiya-prin{ display: flex;
+    justify-content: center
+}
+.info-basica .listado-de-items{ 
+    justify-content:right;
+    align-items: stretch;
+}
+.build{
+    display: flex;
+    justify-content: stretch;
+}
+.build .mejores-armas{
+    width: 40%;
+}
 /*FOOTER*/
 .footer{ color: white;
     background-color: black;
-    height: 70px;
-
+    align-content: end;
 }
+.footer .nav .barra-nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;   
+}
+  
 /*TABLE*/
 
 .form{
     border-style: solid;
 }
 /*horarios*/
+
 .listado-de-items {
     color: black;
-    background-color: transparent;
-    width: 20%;
+    background-color: grey;
     border-style: dotted;
+    width: 70%;
 }
 .dias {
     color: #2d0264;
