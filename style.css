@@ -1,5 +1,5 @@
 /*esto se usa para agregar comentarios */
-.index-body{
+.body{
     background-image: url(./imagenes/GI-Background.jpg)
 }
 
@@ -19,13 +19,8 @@ border-style: solid;
     height: 70px;
 
 }
-
-
 /*TABLE*/
-/*contacto*/
-.contacto-body{
-    background-image: url(./imagenes/GI-Background.jpg) 
-}
+
 .form{
     border-style: solid;
 }
@@ -36,9 +31,6 @@ border-style: solid;
     width: 20%;
     border-style: dotted;
 }
-
-    .horarios-body{ background-image: url(./imagenes/GI-Background.jpg);
-    }
 .dias {
     color: #2d0264;
     font-size: 25px;
