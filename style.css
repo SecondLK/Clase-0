@@ -32,7 +32,7 @@ border-style: solid;
 }
 .build{
     display: flex;
-    justify-content: stretch;
+    justify-content: center;
 }
 .build .mejores-armas{
     width: 40%;
