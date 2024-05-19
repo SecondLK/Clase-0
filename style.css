@@ -61,8 +61,8 @@ border-style: none;
 .listado-de-items {
    list-style: none;
     color: black;
-    background-color: grey;
-    border-style: dotted;
+    background-color: #9c9b9b;
+    border-style: none;
     /*width: 70%*/;
 }
 .dias {
